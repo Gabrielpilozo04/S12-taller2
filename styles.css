@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+h1{
+    color: rgba(1, 54, 15, 0.767);
+}
+
+
+
+h2{
+    color:rgba(1, 54, 15, 0.767);
+}
+h3{
+    color:brown;
+}
+
+body{
+    background-color:dimgrey;
+    background-image:url("fondo\ new.jpeg");
+    background-size: cover;
+    background-position: center;
+  
+}
+img{
+    background-position: center; 
+    background-image:url("imgen\ de\ unemi.jpg");
+}
+hr{
+    color:coral;
+}
+li{
+    color:rgb(204, 50, 50);
+}
